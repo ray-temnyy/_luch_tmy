@@ -1,0 +1,7 @@
+echo "# _luch_tmy" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M 'main' 
+git remote add origin https://github.com/ray-temnyy/_luch_tmy. git
+ git push -u origen 'principal
